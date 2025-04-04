@@ -13,7 +13,7 @@
  * @author Jeff Williams <a href="http://www.aspectsecurity.com">Aspect Security</a>
  * @created 2007
  */
-package SFT.codecs;
+package main.java.SFT.codecs;
 
 
 /**

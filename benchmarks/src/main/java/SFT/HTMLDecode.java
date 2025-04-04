@@ -1,9 +1,9 @@
-package SFT;
+package main.java.SFT;
 
 import org.junit.Test;
 import static org.junit.Assert.assertEquals;
 
-import SFT.codecs.HTMLEntityCodec;
+import main.java.SFT.codecs.HTMLEntityCodec;
 
 import org.sat4j.specs.TimeoutException;
 import theory.characters.CharConstant;

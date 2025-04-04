@@ -1,4 +1,4 @@
-package SFT.codecs;
+package main.java.SFT.codecs;
 
 import java.io.IOException;
 import java.io.PushbackReader;
@@ -9,7 +9,7 @@ import java.util.HashSet;
 import java.util.Map;
 import java.util.Set;
 
-import SFT.codecs.NullSafe;
+import main.java.SFT.codecs.NullSafe;
 
 /**
  * Trie implementation for CharSequence keys. This uses HashMaps for each

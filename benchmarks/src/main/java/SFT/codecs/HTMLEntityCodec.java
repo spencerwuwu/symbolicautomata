@@ -17,7 +17,7 @@
  * Since it uses the BSD License and I have placed the BSD License under the folder called codecs, there is no legal
  * issues or contradictions with Apache License which is used by the whole library
  */
-package SFT.codecs;
+package main.java.SFT.codecs;
 
 import java.util.HashMap;
 import java.util.Collections;

@@ -1,4 +1,4 @@
-package SFT.codecs;
+package main.java.SFT.codecs;
 
 import java.io.IOException;
 import java.io.PushbackReader;
